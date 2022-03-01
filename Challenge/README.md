@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs_Up
 
 **Note:**
 I worked with Aman Gill for this challenge. We followed pair-programming methodology and the code and readme was co-created.
@@ -23,11 +23,11 @@ Here is a summary of temperatures in June and December:
 
 ![December Temperature](https://github.com/pnimma01/surfs_up/blob/643e42344952062fb8f4930466601710a4501ef5/Challenge/Resources/Dec_Temperature.png)
 
-Here is a key difference between the 2 months.
+Here is a few key differences between the 2 months.
 
 1. There are roughly 200 less temperature readings in December than in June
     This finding should not impact our analysis, as each weather station is recording multiple times per day.
-    The average temperature in December is ~ 5 degrees less than it is in June, which is a reasonable considering the seasons.
+2. The average temperature in December is ~ 5 degrees less than it is in June, which is a reasonable considering the seasons.
 
 ## **Summary**
 
@@ -44,4 +44,4 @@ Using the sqlite data that was provided, and loading the data into a pandas data
 ![December Temperature](https://github.com/pnimma01/surfs_up/blob/643e42344952062fb8f4930466601710a4501ef5/Challenge/Resources/December_Percipitaion.png)
 
 
-Looking at the summaries, 
+Looking at the summary of temperature and percipitation, Oahu looks like an ideal place for an Ice Cream and Surf store, ALOHA!! 
